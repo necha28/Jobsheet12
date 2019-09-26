@@ -10,4 +10,11 @@ package function;
  * @author necha
  */
 public class Latihan03 {
-    public static int a()
+    public static double a(double x, double y, double z)
+    {
+        return x+y+z;
+    }
+    public static void main(String[] args){
+        a(1.5,2,3);
+    }
+}
