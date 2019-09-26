@@ -18,7 +18,7 @@ Latihan 02
 
 Latihan 03
 
-
+![Alt Text](https://github.com/necha28/Jobsheet12/blob/master/lat03.PNG)
 
 Latihan 04
 
